@@ -1,0 +1,10 @@
+
+0
+java:S1220""Move this file to a named package.
+>
+java:S1148-"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´¤€±
+c
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¹»­èúÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Äßæ«
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.( º¯ ùÿÿÿÿ
